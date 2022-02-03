@@ -1,9 +1,96 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "AntimaPickaxe",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "antima_pickaxe"
+    },
+    {
+      "name": "AntimaAxe",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "antima_axe"
+    },
+    {
+      "name": "AntimaSword",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "antima_sword"
+    },
+    {
+      "name": "AntimaShovel",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "antima_shovel"
+    },
+    {
+      "name": "AntimaHoe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "antima_hoe"
+    },
+    {
+      "name": "AntimaPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "antima_pickaxe_recipe"
+    },
+    {
+      "name": "AntimaAxeRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "antima_axe_recipe"
+    },
+    {
+      "name": "AntimaSwordRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "antima_sword_recipe"
+    },
+    {
+      "name": "AntimaShovelRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "antima_shovel_recipe"
+    },
+    {
+      "name": "AntimaHoeRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "antima_hoe_recipe"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.aaaa.antima_axe": "Antima Axe",
+      "item.aaaa.antima_hoe": "Antima Hoe",
+      "item.aaaa.antima_sword": "Antima Sword",
+      "item.aaaa.antima_shovel": "Antima Shovel",
+      "item.aaaa.antima_pickaxe": "Antima Pickaxe"
+    }
   },
   "foldersRoot": {
     "name": "~",
