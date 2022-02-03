@@ -4,7 +4,7 @@
       "name": "AntimaPickaxe",
       "type": "tool",
       "sortid": 1,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "antima_pickaxe"
     },
@@ -12,7 +12,7 @@
       "name": "AntimaAxe",
       "type": "tool",
       "sortid": 2,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "antima_axe"
     },
@@ -20,7 +20,7 @@
       "name": "AntimaSword",
       "type": "tool",
       "sortid": 3,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "antima_sword"
     },
@@ -28,7 +28,7 @@
       "name": "AntimaShovel",
       "type": "tool",
       "sortid": 4,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "antima_shovel"
     },
@@ -36,7 +36,7 @@
       "name": "AntimaHoe",
       "type": "tool",
       "sortid": 5,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "registry_name": "antima_hoe"
     },
